@@ -1,7 +1,7 @@
 export default function AboutLoading() {
     return (
         <div>
-            <h1>About Loading....</h1>
+            <h1>Loading about data ...</h1>
         </div>
     )
 
